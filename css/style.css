@@ -37,17 +37,18 @@ body {
    text-align: center;
 }
 
-ghp-content p {
-   margin: 
+.ghp-content p {
+   margin: 50px auto;
 }
 
-.mdl-button {
+#gh-button {
    border: 1px solid #9E98FF;
    display: block;
    margin: 0 auto;
+   width: 120px;
 }
 
-.mdl-button:hover {
+#gh-button:hover {
    background-color: #9E98FF;
 }
 
