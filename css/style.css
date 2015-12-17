@@ -1,0 +1,57 @@
+body {
+   background: url(http://imgur.com/Q59fx8t.jpg) no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-size: 20px;
+}
+
+.ghp-main {
+   margin-top: 5em;
+   flex-shrink: 0;
+}
+
+.ghp-container {
+   width: 95%;
+   margin: 0 auto;
+}
+
+.ghp-content {
+   border-radius: 2px;
+   padding: 80px 56px;
+   margin-bottom: 80px;
+   background-color: #ffffff;
+   border: 1px solid black;
+   opacity: 0.6;
+}
+
+.ghp-layout.is-small-screen .ghp-content {
+   padding: 40px 28px;
+}
+
+.ghp-content h3 {
+   color: #9E98FF;
+   font-size: 2em;
+   text-align: center;
+}
+
+ghp-content p {
+   margin: 
+}
+
+.mdl-button {
+   border: 1px solid #9E98FF;
+   display: block;
+   margin: 0 auto;
+}
+
+.mdl-button:hover {
+   background-color: #9E98FF;
+}
+
+.mdl-logo {
+   padding-left: 40px;
+   color: #9E98FF;
+}
